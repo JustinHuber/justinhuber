@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
  
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<a href="https://github.com/JustinHuber"><img src="https://img.shields.io/badge/GitHub-JustinHuber-blue?logo=github" /></a>
+
 
 <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-JustinHuber-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
