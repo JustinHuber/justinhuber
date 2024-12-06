@@ -41,8 +41,8 @@ Here are some ideas to get you started:
  
 
 
-<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-JustinHuber-pink?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
+<a href="https://space.bilibili.com/57277484"><img src="https://img.shields.io/badge/哔哩哔哩-JustinHuber-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/QQ-424372929-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=JustinHuber&abbreviated=true&color=yellow" />
 </p>
