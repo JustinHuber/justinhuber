@@ -40,9 +40,14 @@ Here are some ideas to get you started:
  
 
 <!-- contact info-->
-<a href="https://space.bilibili.com/57277484"><img src="https://img.shields.io/badge/哔哩哔哩-NightZed-pink?logo=bilibili" /></a>
+<a href="https://space.bilibili.com/57277484">
+  <img src="https://img.shields.io/badge/哔哩哔哩-NightZed-pink?logo=bilibili" />
+</a>
 <img src="https://img.shields.io/badge/QQ-424372929-green?logo=tencentqq" />
-[![Telegram](https://shields.io)](https://t.me/a_bc_a)
+<a href="https://t.me/a_bc_a">
+  <img src="https://shields.io" alt="Telegram Badge"/>
+</a>
+
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=JustinHuber&abbreviated=true&color=yellow" />
