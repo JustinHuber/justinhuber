@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JustinHuber&theme=github-compact&hide_border=true&area=true">
 <br/>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinHuber&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<!-- https://github.com/stats-organization/github-stats-extended-->
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=justinhuber)](https://github.com/stats-organization/github-stats-extended)
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
