@@ -44,9 +44,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/哔哩哔哩-NightZed-pink?logo=bilibili" />
 </a>
 <img src="https://img.shields.io/badge/QQ-424372929-green?logo=tencentqq" />
-<a href="https://t.me/a_bc_a">
-  <img src="https://shields.io" alt="Telegram Badge"/>
-</a>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@JustinHuber-blue?style=flat&logo=telegram)](https://t.me/a_bc_a)
+   
+
 
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
