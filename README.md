@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 </p>
  
 <p align="center">
-
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=JustinHuber&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinHuber" /> </div>
+
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JustinHuber&theme=github-compact&hide_border=true&area=true">
 <br/>
