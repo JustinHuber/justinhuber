@@ -37,10 +37,6 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinHuber" /> </div>
 
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JustinHuber&theme=github-compact&hide_border=true&area=true">
-<br/>
-
 <!-- https://github.com/stats-organization/github-stats-extended-->
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=justinhuber)](https://github.com/stats-organization/github-stats-extended)
 <br/>
