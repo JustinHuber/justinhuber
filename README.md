@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 </p>
  
 <p align="center">
+<!-- 1. 贡献贪吃蛇（最吸眼球，放最上面） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustinHuber/JustinHuber/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustinHuber/JustinHuber/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JustinHuber/JustinHuber/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=JustinHuber&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
