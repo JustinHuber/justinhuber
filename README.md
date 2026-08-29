@@ -38,8 +38,11 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinHuber" /> </div>
 
 <!-- https://github.com/stats-organization/github-stats-extended-->
+<div align="center">
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=justinhuber)](https://github.com/stats-organization/github-stats-extended)
+</div>
 <br/>
+
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
@@ -49,16 +52,14 @@ Here are some ideas to get you started:
 <a href="https://space.bilibili.com/57277484">
   <img src="https://img.shields.io/badge/哔哩哔哩-NightZed-pink?logo=bilibili" />
 </a>
+
 <img src="https://img.shields.io/badge/QQ-424372929-green?logo=tencentqq" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-@JustinHuber-blue?style=flat&logo=telegram)](https://t.me/a_bc_a)
    
-
-
-
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=JustinHuber&abbreviated=true&color=yellow" />
-</p>
+
  
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
